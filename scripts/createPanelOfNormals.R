@@ -1,3 +1,4 @@
+#!/usr/local/bin/Rscript
 library(HMMcopy)
 library(GenomicRanges)
 library(optparse)
