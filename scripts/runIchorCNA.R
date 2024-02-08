@@ -1,3 +1,4 @@
+#!/usr/local/bin/Rscript
 # file:   ichorCNA.R
 # authors: Gavin Ha, Ph.D.
 #          Fred Hutch
